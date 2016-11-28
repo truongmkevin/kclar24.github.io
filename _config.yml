@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Keith Clark, Web Designer
+title: Kevin Truong, Web Designer
 email: keith.a.clark24@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Web design based in the cultural center of New Orleans.
